@@ -8,7 +8,7 @@ site_author = "Guen Prawiroatmodjo"
 site_url = "https://guen.pw/monorepo/"
 copyright = "Copyright &copy; 2026 Guen Prawiroatmodjo"
 
-repo_url = "https://github.com/guenp/mono"
+repo_url = "https://github.com/guenp/monorepo"
 repo_name = "GitHub"
 edit_uri = "edit/main/docs"
 
